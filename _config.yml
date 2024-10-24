@@ -20,13 +20,13 @@ title: "Collection"
 title_separator: "|"
 subtitle: ""
 name: "Goldtg"
-description: "성실하게"
+description: "세계적인 IT 강대국을 만드는 것을 목표로 한 주니어"
 url: "https://goldtg.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "goldtg/goldtg.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/88-cat.jpg"
-masthead_title: "지식 상자"
+masthead_title: "Tech Archive"
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
