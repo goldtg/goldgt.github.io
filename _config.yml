@@ -29,6 +29,8 @@ logo: "/assets/images/88-cat.jpg"
 masthead_title: "Tech Archive"
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
+header:
+  image: "/assets/images/a-book.jpg"
 comments:
   provider: "disqus" #, "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
