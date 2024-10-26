@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KwnagSun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "대한민국을 세계적인 IT 강국으로!"
   location         : "South Korea"
-  email            :
+  email            : "kangsun61@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "kangsun61@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/goldtg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/goldtg"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -324,5 +324,5 @@ defaults:
       share: true
       related: true
       show_date: true
-      
+
 date_format: "%Y-%m-%d"
