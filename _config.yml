@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "KwangSun Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/kwanpark.jpg"
   bio              : "세계적인 IT 강대국을 만드는 것이 목표입니다."
   location         : "South Korea"
   email            : "kangsun61@gmail.com"
